@@ -4,6 +4,21 @@
   "publisher": "khamudom",
   "description": "AI-powered tools to assist with Astro code, accessibility, and SEO.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:khamudom/astro-ai-helper.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vscode",
+    "extension",
+    "astro",
+    "ai",
+    "accessibility",
+    "seo",
+    "code summarization",
+    "code analysis"
+  ],
   "engines": {
     "vscode": "^1.101.0"
   },
